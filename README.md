@@ -621,6 +621,12 @@ This is a key part of the project because the financial totals are **recalculate
 
 # 10. Reporting Layer
 
+### Output Previews
+
+![Financial reconciliation output](outputs/Financial.png)
+
+![Data quality test output](outputs/tests.png)
+
 The pipeline produces two final Excel outputs:
 
 ```text
